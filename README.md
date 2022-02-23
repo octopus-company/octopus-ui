@@ -1,3 +1,7 @@
+# !!!! 最最重要的
+```
+原来的 nuxt.config.js 文件中let routerBasePath = '/' 改成 let routerBasePath = '/dashboard'
+```
 # install yarn
 npm install --global yarn
 # octopus-ui
