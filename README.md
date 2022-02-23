@@ -1,3 +1,5 @@
+# install yarn
+npm install --global yarn
 # octopus-ui
 [![Build Status](http://drone-pandaria.cnrancher.com/api/badges/cnrancher/octopus-ui/status.svg)](http://drone-pandaria.cnrancher.com/cnrancher/octopus-ui)
 
